@@ -1,0 +1,39 @@
+h1 {
+  color:#56cfd1;
+  font-family:cursive;
+}
+
+h3 {
+  color:#5390d9;
+}
+
+p {
+  color:#5e60ce;
+}
+
+li {
+  color:#6930c3;
+}
+body {
+  background:#80ffdb;
+}
+
+img {
+  float: right;
+  width:200px;
+  height: 125px;
+  border-color:#ff6392;
+  border-style: ridge;
+  border-width: thick;
+  border-radius: 25px;
+  margin: 5px;
+}
+
+h6 {
+  float: right;
+}
+
+h4 {
+  color:#7400b8;
+}
+
